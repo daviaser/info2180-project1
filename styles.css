@@ -64,10 +64,10 @@ header h1{
 }
 
 .overview-hero-text{
-    text-align: right;
+    text-align: left;
 }
 .overview-hero-text p{
-    text-align: right;
+    text-align: left;
     margin-left: 25px;
 }
 .learn-about .cards{
